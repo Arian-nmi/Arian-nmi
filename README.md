@@ -1,4 +1,3 @@
-👋 Hi, I’m Arian
 🐍 Learning Python
 🌱 Industrial engineering student
 
