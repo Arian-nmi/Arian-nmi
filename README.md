@@ -1,4 +1,5 @@
-🐍 Learning Python
+🐍 Learning Python 
+
 🌱 Industrial engineering student
 
 ⚡     May I stand unshaken      ⚡    
