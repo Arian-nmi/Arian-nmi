@@ -2,7 +2,6 @@
 
 🌱 Industrial engineering student
 
-⚡     May I stand unshaken      ⚡    
-⚡ Amid, amidst a crashing world ⚡
+⚡     May I stand unshaken      ⚡
 
 ☕ naeimiarian82@gmail.com
