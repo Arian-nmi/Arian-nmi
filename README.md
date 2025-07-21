@@ -1,8 +1,16 @@
-<h2 align="left">Hi 👋! My name is Arian and I'm a Beck-end Developer.</h2>
+<h2 align="left">Hi 👋! My name is Arian.<br><br>I'm a Beck-end Developer.</h2>
 
 ###
 
-<h2 align="left">My skills:</h2>
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=arian-nmi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=Github%20Stats" height="150" alt="stats graph"  />
+</div>
+
+###
+
+<h2 align="left">skills:</h2>
 
 ###
 
