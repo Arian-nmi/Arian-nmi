@@ -3,12 +3,7 @@
 ###
 
 <div align="left">
-<img
-  src="https://github-readme-stats.vercel.app/api?username=arian-nmi&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false&order=1"
-  height="150"
-  style="transform: scaleX(1.15); transform-origin: left;"
-  alt="stats graph"
-/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arian-nmi&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false&order=1" height="150" width="200" alt="stats graph" />
 </div>
 
 ###
