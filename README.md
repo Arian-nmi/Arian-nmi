@@ -1,16 +1,14 @@
-<h2 align="left">Hi 👋! My name is Arian.<br><br>I'm a Beck-end Developer.</h2>
+<h3 align="left">Hello 👋 I'm Arian</h3>
 
 ###
 
-<br clear="both">
-
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=arian-nmi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false&order=1&custom_title=Github%20Stats" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=arian-nmi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
 ###
 
-<h2 align="left">Language & Tools:</h2>
+<p align="left">Language & Tools:</p>
 
 ###
 
@@ -23,11 +21,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="30" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="30" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
 ###
