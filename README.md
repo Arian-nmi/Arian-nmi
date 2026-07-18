@@ -1,5 +1,5 @@
 # Hello there 👋 I'm Arian
-<br>🛠️  Python backend developer building with Django<br>🐧  Linux enthusiast exploring the system from the inside out<br>💡  Curious about software architecture<br>⚙️  Passionate about software engineering<br>🚀  Always learning, always improving
+🛠️  Python backend developer building with Django<br>🐧  Linux enthusiast exploring the system from the inside out<br>💡  Curious about software architecture<br>⚙️  Passionate about software engineering<br>🚀  Always learning, always improving
 
 
 ## 🌐 Socials:
