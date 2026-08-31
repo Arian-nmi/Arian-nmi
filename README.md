@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/github-banner.png" alt="Arian GitHub Banner">
+</p>
+
 # Hello there 👋 I'm Arian
 🛠️  Python backend developer building with Django<br>🐧  Linux enthusiast exploring the system from the inside out<br>💡  Curious about software architecture<br>⚙️  Passionate about software engineering<br>🚀  Always learning, always improving
 
